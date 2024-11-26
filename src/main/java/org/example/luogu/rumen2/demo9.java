@@ -12,15 +12,16 @@ public class demo9 {
         Scanner scanner = new Scanner(System.in);
         int year = scanner.nextInt();
         int mouth = scanner.nextInt();
-        if (mouth == 1||mouth == 3||mouth == 5||mouth == 7||mouth == 8||mouth == 10||mouth == 12)
+        if (mouth == 1 || mouth == 3 || mouth == 5 || mouth == 7 || mouth == 8 || mouth == 10 || mouth == 12) {
             System.out.println(31);
-        else{
-            if ( mouth == 2 && ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)))
+        } else {
+            if (mouth == 2 && ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))) {
                 System.out.println(29);
-            else if (mouth==2)
+            } else if (mouth == 2) {
                 System.out.println(28);
-            else
+            } else {
                 System.out.println(30);
+            }
         }
     }
 }

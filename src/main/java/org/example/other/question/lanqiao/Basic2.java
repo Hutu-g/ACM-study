@@ -1,4 +1,4 @@
-package org.example.question.lanqiao;
+package org.example.other.question.lanqiao;
 
 public class Basic2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.warpper;
+package org.example.other.warpper;
 
 public class WrapperVSString {
     public static void main(String[] args) {

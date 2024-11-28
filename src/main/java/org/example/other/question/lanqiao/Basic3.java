@@ -1,4 +1,4 @@
-package org.example.question.lanqiao;
+package org.example.other.question.lanqiao;
 
 import java.util.Scanner;
 

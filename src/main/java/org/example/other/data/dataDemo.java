@@ -1,4 +1,4 @@
-package org.example.data;
+package org.example.other.data;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

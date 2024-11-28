@@ -1,4 +1,4 @@
-package org.example.question;
+package org.example.other.question;
 
 public class test2 {
     public static class ListNode {

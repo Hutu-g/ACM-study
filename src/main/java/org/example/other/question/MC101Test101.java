@@ -1,4 +1,4 @@
-package org.example.question;
+package org.example.other.question;
 
 import java.util.Map;
 import java.util.Scanner;

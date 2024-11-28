@@ -1,4 +1,4 @@
-package org.example.question;
+package org.example.other.question;
 
 //        //数组逆序
 //        int[] nums = {489,88,8,64,56,487,4,4,65,46,4,7};

@@ -1,4 +1,4 @@
-package org.example.arrays;
+package org.example.other.arrays;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
